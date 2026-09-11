@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-logo {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.top-logo {
+    height: 70px;
+    width: 150px;
+}
+
+.logo {
+    background-image: url(Amazon-Logo.jpg);
+    background-size: cover;
+    height: 70px;
+    width: 100%;
+}
+
+.s-i-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.s-i-contant {
+    border: 2px solid gray;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 20px 5px 10px 20px rgba(0, 0, 0, 0.781);
+}
+
+.box-heading {
+    padding-left: 50px;
+}
+
+h1 {
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.box-heading p {
+    padding-bottom: 10px;
+}
+
+input {
+    width: 90%;
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: rgb(231, 209, 6);
+    width: 90%;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.work {
+    padding-top: 50px;
+}
+
+.line {
+    width: 90%;
+    height: 70px;
+    border-bottom: 1px solid black;
+}
